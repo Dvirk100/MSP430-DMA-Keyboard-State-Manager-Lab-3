@@ -14,7 +14,7 @@ Keyboard-Driven Interactions: Implements a keyboard interface for user inputs, d
 
 Low Power Management: Implements various low-power modes to optimize power consumption, vital for battery-operated and energy-efficient applications.
 
-#FSM States and Operations
+# FSM States and Operations
 
 The FSM in this project manages different aspects of system functionality through these states:
 
